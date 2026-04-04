@@ -1,5 +1,5 @@
 {
-  "buildCommand": "vite build",
+  "buildCommand": "npm install && vite build",
   "outputDirectory": ".output/public",
   "framework": null,
   "rewrites": [
